@@ -19,9 +19,9 @@ I'm interested in web development
 : MIEM University (Faculty of Electronic)
 
 ## Skills:
--[x] Qt
--[x] C++
--[x] Javascript
+* Qt
+* C++
+* Javascript
 ---
 ## Code Example:
 **CodeWars <6kyu>: Given an array of integers, find the one that appears and odd number of time.
