@@ -14,6 +14,10 @@ I'm interested in web development
 **_2013 - 2020_**:
 : circuit engineer, microcontroller programmer
 ---
+## Education:
+**_2008 - 2013_**
+: MIEM University (Faculty of Electronic)
+
 ## Skills:
 -[x] Qt
 -[x] C++
@@ -45,3 +49,6 @@ int findOdd(const std::vector<int>& numbers)
    }
 }
 ```
+## Languages:
+**English - B1**
+**Russian - Native**
