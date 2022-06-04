@@ -13,6 +13,7 @@ I'm interested in web development
 
 **_2013 - 2020_**
 : circuit engineer, microcontroller programmer
+
 ---
 ## Education:
 **_2008 - 2013_**
