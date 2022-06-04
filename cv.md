@@ -11,7 +11,7 @@ I'm interested in web development
 **_2020 - to date_**
 : Qt/C++ Developer (Desktop apps)
 
-**_2013 - 2020_**:
+**_2013 - 2020_**
 : circuit engineer, microcontroller programmer
 ---
 ## Education:
