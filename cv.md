@@ -6,7 +6,7 @@
 ---
 ## About me:
 I'm interested in web development
----
+
 ## Expirience:
 **_2020 - to date_**
 : Qt/C++ Developer (Desktop apps)
