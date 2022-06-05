@@ -23,10 +23,12 @@ I'm interested in web development
 * Qt
 * C++
 * Javascript
+
 ---
 ## Code Example:
 **CodeWars <6kyu>: Given an array of integers, find the one that appears and odd number of time.
 There will always be only one integer that appears and odd number of times.**
+
 ```
 #include <vector>
 
