@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kaivattu.github.io/rsschool-cv/
